@@ -1,5 +1,6 @@
 # fin
 
+cross src
+itfin   src
 
-itfin src
 
